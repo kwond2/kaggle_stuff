@@ -1,0 +1,1 @@
+# base model class for shared methods
