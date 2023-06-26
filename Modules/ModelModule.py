@@ -1,1 +1,1 @@
-print("TEST")
+# base model class for shared methods
